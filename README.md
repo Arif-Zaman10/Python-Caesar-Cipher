@@ -3,11 +3,11 @@ This is a simple implementation of the Caesar Cipher, one of the oldest and most
 
 
 📜 How it Works:
-You choose whether to encode or decode.
-Enter your message.
-Enter a shift number (how many letters you want to move in the alphabet).
-The program shifts only the letters while leaving spaces, numbers, and symbols unchanged.
-You can run the program as many times as you like until you type n to quit.
+-You choose whether to encode or decode.
+-Enter your message.
+-Enter a shift number (how many letters you want to move in the alphabet).
+-The program shifts only the letters while leaving spaces, numbers, and symbols unchanged.
+-You can run the program as many times as you like until you type n to quit.
 
 
 ▶️ Example run: 
@@ -24,7 +24,7 @@ GOODBYE 👋
 
 
 📝 Notes:
-Only letters a-z are shifted.
-Numbers, spaces, and symbols stay the same.
-Shift numbers larger than 26 are automatically wrapped (e.g., shift=30 works like shift=4).
-The program will keep running until you choose to exit.
+-Only letters a-z are shifted.
+-Numbers, spaces, and symbols stay the same.
+-Shift numbers larger than 26 are automatically wrapped (e.g., shift=30 works like shift=4).
+-The program will keep running until you choose to exit.
